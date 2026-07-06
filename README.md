@@ -250,3 +250,154 @@ When a generation misses the mark, don't rewrite the entire prompt. Change **onl
 ### Energy Tags That Work
 
 Flat tracks sound amateur. Use localized energy cues to create dynamics:
+[Energy: Low] → verses
+[Add Tension] → pre-chorus
+[Energy: Explosive] → chorus
+
+
+### BPM Anchoring
+
+Different genres thrive at specific tempos:
+
+| Genre | BPM Range |
+|-------|-----------|
+| Lo-fi/Downtempo | 85-95 |
+| Indie/Pop/Pop-soul | 110-130 (118 BPM sweet spot) |
+| Techno/EDM | 140+ |
+
+### Fighting "Suno-isms"
+
+Suno has token biases—words it overuses like *neon, echo, ghost, silver, shadow*. To avoid generic sounding tracks:
+
+- Use concrete imagery
+- Avoid vague emotional metaphors
+- Add descriptors like "grounded language" or "storytelling"
+
+---
+
+## Common Mistakes and How to Avoid Them
+
+| Mistake | Why It Fails | Fix |
+|---------|--------------|-----|
+| Overloading genres | AI has no stable center | Pick 2-3 max |
+| Using vague words | "Cool" doesn't describe sound | Use specific descriptors |
+| Contradictory moods | Confuses the model | Pick one primary mood |
+| Ignoring use case | Generic sound | Specify where it'll be used |
+| No vocal direction | Random vocal generation | Always specify vocal type |
+| All Japanese prompts | Inconsistent results | Use English for style, Japanese for lyrics |
+
+---
+
+## Step-by-Step Prompt Workflow
+
+Follow this process for consistent results:
+
+1. **Define use case** — Where will this track be used? (YouTube, TikTok, background, full song)
+2. **Choose primary genre** — Pick 1-2 genres
+3. **Set the mood** — Choose ONE emotional anchor
+4. **Select instruments** — Pick 2-3 core instruments
+5. **Specify vocals** — Gender, style, delivery type
+6. **Set energy levels** — Map energy to sections
+7. **Generate and debug** — Change ONE variable at a time if results are off
+
+**Example prompt built with this workflow:**
+*Melodic house, uplifting and driving, 125 BPM, piano chords and lush pads, female vocal chop on the drop*
+
+---
+
+## Expert Tips from Power Users
+
+### Tip 1: Talk Like a Mixing Engineer
+
+Reddit power users say: "Talk to Suno like you're briefing a mixing engineer". Technical language outperforms vague tags.
+
+**Instead of:** "dark trap, sad"  
+**Try:** *High-fidelity stereo mix, crystal-clear dynamics, heavy rumbling 808 sub-bass, crisp hi-hats, dark cinematic atmosphere, 140 BPM head-nod groove*
+
+### Tip 2: Use Vocal Anchors
+
+Place a `[Vocal Anchor]` at the top of your lyrics field to lock in the vocal character:
+[Vocal: male, deep husky timbre, relaxed but intense delivery, clear diction, modern rap-adjacent tone.]
+
+
+### Tip 3: Master Song Sections with Behavior Tags
+
+Use behavior tags that tell sections what to do:
+
+- `[Structure: Focused Performance]` — Tight storytelling, medium energy
+- `[Structure: Build-up]` — Rising tension, instruments layering in
+- `[Structure: Anthemic Peak]` — Big hook energy, track's highest point
+- `[Structure: Minimalist Breakdown]` — Stripped back, intimate, more space
+
+### Tip 4: Use Suno Personas for Vocal Consistency
+
+When you find a vocal style you love, save it as a Suno Persona. This locks the vocal timbre for future tracks.
+
+> 💎 **Want 10,000+ Ready-to-Use Prompts?** The complete library includes 200+ genres, copy-paste templates, and lifetime updates.  
+> **Get it here:** [https://sevensky.gumroad.com/](https://sevensky.gumroad.com/)
+
+## FAQs
+
+### 1. What are the best Suno AI prompts for beginners?
+
+Start simple: *J-Pop, upbeat, catchy chorus, bright mood, female vocal*. Or *Lo-fi hip hop, relaxed tempo, calm atmosphere, minimal vocal*. Keep it to 2-3 key elements.
+
+### 2. Can I write Suno prompts in Japanese?
+
+Yes, but use English for the style/mood and Japanese for lyrics. This gives more stable results.
+
+### 3. How many words should a Suno prompt be?
+
+Quality over quantity. A focused prompt of 10-20 words with clear structure outperforms a long, vague paragraph.
+
+### 4. Why does my Suno track sound generic?
+
+You're probably using "Suno-isms"—words the AI overuses like *neon*, *echo*, *ghost*. Replace vague descriptors with concrete, technical language.
+
+### 5. What is the most important element of a Suno prompt?
+
+Mood anchors everything. Choose one primary emotion and build from there. Multiple moods dilute the output.
+
+### 6. How do I make Suno vocals sound more human?
+
+Use specific vocal direction: *raspy female alto*, *close-mic breathy male*, *spoken-word delivery*. Save good vocal styles as Suno Personas.
+
+### 7. Can I get commercial rights to Suno-generated music?
+
+Yes, paid Suno plans include commercial use rights. However, you're technically a licensee, not the owner of the raw AI output. Add human layers (lyrics, live instruments) to strengthen copyright claims.
+
+### 8. What BPM should I use for pop music?
+
+118 BPM is the "sweet spot" for pop and pop-soul. Lo-fi works well at 85-95 BPM. EDM and techno thrive at 140+.
+
+### 9. How do I fix a Suno track that's "close but not right"?
+
+Change ONE variable at a time. Ask: Was the genre wrong? Was the mood off? Did the vocals feel out of place? Then revise only that element.
+
+### 10. Where can I find more Suno prompts?
+
+This guide covers the essentials. For **10,000+ professionally organized prompts** across 200+ genres, check out the complete library: [https://sevensky.gumroad.com/](https://sevensky.gumroad.com/)
+
+---
+
+## Conclusion
+
+Stop treating Suno like a slot machine. Start treating it like an instrument you can learn to play.
+
+The difference between a random AI track and a professional-sounding song is **structure**. Use the 4-pillar formula. Specify mood, energy, instruments, and vocal identity. Debug systematically by changing one variable at a time.
+
+Most importantly, build a library of prompts that work. Experiment with different genres. Save the vocal styles you love. And when you're ready to shortcut the process, consider a professionally curated prompt collection.
+
+> 💎 **Ready to stop guessing and start creating?**  
+> The complete **10,000 Suno AI Prompts** library gives you:
+>
+> ✔ 10,000+ copy-paste prompts  
+> ✔ 200+ genres covered  
+> ✔ Organized by style and mood  
+> ✔ Ready-to-use templates  
+> ✔ Lifetime updates  
+> ✔ Instant download  
+>
+> **Get yours here:** [https://sevensky.gumroad.com/](https://sevensky.gumroad.com/)
+
+Now go make something great. Your next track is just a prompt away.
