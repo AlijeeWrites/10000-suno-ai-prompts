@@ -333,9 +333,6 @@ Use behavior tags that tell sections what to do:
 
 When you find a vocal style you love, save it as a Suno Persona. This locks the vocal timbre for future tracks.
 
-> 💎 **Want 10,000+ Ready-to-Use Prompts?** The complete library includes 200+ genres, copy-paste templates, and lifetime updates.  
-> **Get it here:** [https://sevensky.gumroad.com/](https://sevensky.gumroad.com/)
-
 ## FAQs
 
 ### 1. What are the best Suno AI prompts for beginners?
@@ -369,16 +366,6 @@ Yes, paid Suno plans include commercial use rights. However, you're technically 
 ### 8. What BPM should I use for pop music?
 
 118 BPM is the "sweet spot" for pop and pop-soul. Lo-fi works well at 85-95 BPM. EDM and techno thrive at 140+.
-
-### 9. How do I fix a Suno track that's "close but not right"?
-
-Change ONE variable at a time. Ask: Was the genre wrong? Was the mood off? Did the vocals feel out of place? Then revise only that element.
-
-### 10. Where can I find more Suno prompts?
-
-This guide covers the essentials. For **10,000+ professionally organized prompts** across 200+ genres, check out the complete library: [https://sevensky.gumroad.com/](https://sevensky.gumroad.com/)
-
----
 
 ## Conclusion
 
